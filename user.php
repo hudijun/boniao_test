@@ -1,3 +1,3 @@
 <?php
 
-echo "hello world final  reset 1.0 ";
+echo "hello world final  after reset ";
